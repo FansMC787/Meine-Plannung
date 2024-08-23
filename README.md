@@ -6,6 +6,10 @@ Meine Ziele;
 2. Das ich mehr Pause mache. (letztes mal habe ich fast keine gemacht)
 3. das ich verstehe wie ich einen AUftrag anylisiere.
 
+   # Lernatelier Reflexion
+
+   Ich bin sehr weiter gekommen und verstehe wie man Aufträge anylisiert. Pause müsste ich mehr machen aber ist jetzt schon besser als zuvor.
+
 
 
 

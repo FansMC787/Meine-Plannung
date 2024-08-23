@@ -1,5 +1,16 @@
 # Meine-Plannung
-## 16.08.2024
+
+## Tag 2 (23.08.2024)
+Meine Ziele;
+1. Das ich im Plan weiter komme.
+2. Das ich mehr Pause mache. (letztes mal habe ich fast keine gemacht)
+3. das ich verstehe wie ich einen AUftrag anylisiere.
+
+
+
+
+
+## Tag 1 (16.08.2024)
 Meine Ziele:
 1. Das ich verstehe wie Rollen funktioniren und wieso es das gibt.
 2. Variablen und Konstanten kennenlernen

@@ -1,4 +1,17 @@
 # Meine-Plannung
+## Tag 3 (30.08.2024)
+
+Meine Ziele
+1. Programmieren, Programmieren, Programmieren
+2. genug Pausen machen
+3. Das ich im Plan weiterkomme
+
+ # Lernatelier Reflexion
+
+ Ich bin weit gekommen und habe auch viel Programmiert. Pausen habe ich auch genug gemacht und im Plan bin ich auch weitergekommen.
+
+
+# Meine-Plannung
 
 ## Tag 2 (23.08.2024)
 Meine Ziele;

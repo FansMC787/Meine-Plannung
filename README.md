@@ -7,7 +7,8 @@ Meine Ziele
 3. im Modul weiter kommen.
 
  # Lernatelier Reflexion
-
+Ich habe viel geübt und pausen habe ich wenig gemacht.
+Im Modul bin ich auch weiter gekommen.
  
 
 

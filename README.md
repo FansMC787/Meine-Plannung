@@ -1,4 +1,17 @@
 # Meine-Plannung
+## Tag 4 (06.09.2024)
+
+Meine Ziele
+1. Programmieren üben
+2. pausen machen
+3. weiter im Modul weiter kommen.
+
+ # Lernatelier Reflexion
+
+ 
+
+
+# Meine-Plannung
 ## Tag 3 (30.08.2024)
 
 Meine Ziele

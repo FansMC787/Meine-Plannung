@@ -4,7 +4,7 @@
 Meine Ziele
 1. Programmieren üben
 2. pausen machen
-3. weiter im Modul weiter kommen.
+3. im Modul weiter kommen.
 
  # Lernatelier Reflexion
 

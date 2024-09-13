@@ -7,7 +7,8 @@ Meine Ziele
 
  
  # Lernatelier Reflexion
- 
+ Ich habe leider nicht so viel programmiert, aber habe viel im Modul 431 garbeitet und pausen habe ich auch gemacht.
+ Beim nächsten mal werde ich mehr programmieren.
 
 
 

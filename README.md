@@ -1,5 +1,5 @@
 # Meine-Plannung
-## Tag 5 (13.09.2024)
+## Tag 6 (20.09.2024)
 1. Programmieren üben
 2. Pausen machen oder Portfolio anfangen
 3. Im Modul 431 weiter machen.

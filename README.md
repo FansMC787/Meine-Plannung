@@ -6,6 +6,12 @@
 
 
 
+# Lernatelier Reflexion
+Ich habe Programmiert, Pausen gemacht und auch am Modul 431 gearbeiter.
+Leider habe ich mit dem Portfolio nicht angefangen.
+
+
+
 
 
 

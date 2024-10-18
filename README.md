@@ -8,7 +8,9 @@ Die Projekte die ich schon mal gemacht habe(z.b QVRechner) nochmal machen und gu
 Ich muss lernen im Teams besser arbeiten und muss gucken wo ich mich verbessern kann.
 
 # Lernatelier Reflexion
-
+Ich habe den QVRechner wieder Programmiert und habe meine Fähigkeiten getestet.
+Ich könnte noch versuchen mit anderen bsser zu arbeiten.
+Ich werde noch als nächstes versuchen den Kassenrechner zu programmieren.
 
 
 

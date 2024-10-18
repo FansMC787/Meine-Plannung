@@ -1,8 +1,23 @@
 # Meine-Plannung
+## Tag 7 (18.10.2024)
+1. Programmieren üben: 
+An Modul 319 weiterarbeiten, die freiwilligen projekten anfangen(Beispiel letztesmal den Primzahlrechner)
+2. Meine Fähigkeiten testen:
+Die Projekte die ich schon mal gemacht habe(z.b QVRechner) nochmal machen und gucken wie weit ich kommme und so gucken was ich noch lernen muss.
+3. Teamarbeit
+Ich muss lernen im Teams besser arbeiten und muss gucken wo ich mich verbessern kann.
+
+# Lernatelier Reflexion
+
+
+
+
+
+# Meine-Plannung
 ## Tag 6 (20.09.2024)
-1. Programmieren üben
-2. Pausen machen oder Portfolio anfangen
-3. Im Modul 431 weiter machen.
+1. Programmieren üben(Rechner programmieren, Primzahlrechner,)
+2. Pausen machen oder Portfolio anfangen(An meine Dokumentation Informationen sammeln)
+3. Im Modul 431 weiter machen.(Meine Dokumentation fertig machen, bei der Plan bis Tag 6 kommen)
 
 
 
@@ -19,14 +34,14 @@ Leider habe ich mit dem Portfolio nicht angefangen.
 # Meine-Plannung
 ## Tag 5 (13.09.2024)
 Meine Ziele
-1. Programmieren üben
-2. Im Modul 431 weiter machen.
-3. Pausen machen
+1. Programmieren üben(Die Kontrollstrukturen kennenlernen und verstehen wofür man es braucht)
+2. Im Modul 431 weiter machen.(In der Plannung im Modul 431 ankommen)
+3. Pausen machen(mit kollegen zusammen austauchen über Portfolio oder was anderes und pausen machen)
 
  
  # Lernatelier Reflexion
  Ich habe leider nicht so viel programmiert, aber habe viel im Modul 431 garbeitet und pausen habe ich auch gemacht.
- Beim nächsten mal werde ich mehr programmieren.
+ Beim nächsten mal werde ich mehr programmieren.(Ich bin am Tag6 angekommen und habe wenig am Modul 319 gearbeitet, dass muss ich am nächsten Tag nachholen)
 
 
 
@@ -34,13 +49,13 @@ Meine Ziele
 ## Tag 4 (06.09.2024)
 
 Meine Ziele
-1. Programmieren üben
-2. pausen machen
-3. im Modul weiter kommen.
+1. Programmieren üben(den QV Rechner fertig stellen, Arrays anwenden können.)
+2. pausen machen(Ich muss mich besser erholen und nicht so lange arbeiten bis ich kopfschmerzen habe)
+3. im Modul 431 weiter kommen.(Bei der Plannung weiterkommen und bei Tag 4)
 
  # Lernatelier Reflexion
 Ich habe viel geübt und pausen habe ich wenig gemacht.
-Im Modul bin ich auch weiter gekommen.
+Im Modul bin ich auch weiter gekommen.(Ich bin fast bei Tag4 angekommen der rest mache ich Nachhause)
  
 
 
@@ -48,9 +63,9 @@ Im Modul bin ich auch weiter gekommen.
 ## Tag 3 (30.08.2024)
 
 Meine Ziele
-1. Programmieren, Programmieren, Programmieren
+1. Programmieren, Programmieren, Programmieren(Operatoren verstehen und anwenden können)
 2. genug Pausen machen
-3. Das ich im Plan weiterkomme
+3. Das ich im Plan weiterkomme(Bei der Plannung im Teams bei Tag 3)
 
  # Lernatelier Reflexion
 
@@ -61,7 +76,7 @@ Meine Ziele
 
 ## Tag 2 (23.08.2024)
 Meine Ziele;
-1. Das ich im Plan weiter komme.
+1. Das ich im Plan weiter komme.(Im Teams die Plannung bei Tag 2 ankommen)
 2. Das ich mehr Pause mache. (letztes mal habe ich fast keine gemacht)
 3. das ich verstehe wie ich einen AUftrag anylisiere.
 

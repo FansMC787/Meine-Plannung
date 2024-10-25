@@ -4,10 +4,11 @@
 Ich muss die Arrays üben und besser verstehen wie es geht.
 2.Teamarbeit
 letzte Woche habe nicht viel im Team gearbeitet, darum muss ich das nachholen und wissen was ich verbessern muss.
-3. 
+3. Meine Fähigkeit testen
+Ich will wie letzte woche meine Fähgkeiten testen und gucken was ich noch lernen muss.
 
 # Lernatelier Reflexion
-
+Ich habe viel im Team gearbeitet und hab viel über Arrays geübt. Ich sollte nächste Woche mehr in andere sachen gucken und nicht spezifische sachen.
 
 
 # Meine-Plannung

@@ -1,10 +1,10 @@
 # Meine-Plannung
 ## Tag 8 (25.10.2024)
-1 Programmieren üben
+1 Programmieren üben:
 Ich muss die Arrays üben und besser verstehen wie es geht.
-2.Teamarbeit
+2.Teamarbeit:
 letzte Woche habe nicht viel im Team gearbeitet, darum muss ich das nachholen und wissen was ich verbessern muss.
-3. Meine Fähigkeit testen
+3. Meine Fähigkeit testen:
 Ich will wie letzte woche meine Fähgkeiten testen und gucken was ich noch lernen muss.
 
 # Lernatelier Reflexion

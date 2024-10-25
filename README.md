@@ -1,4 +1,16 @@
 # Meine-Plannung
+## Tag 8 (25.10.2024)
+1 Programmieren üben
+Ich muss die Arrays üben und besser verstehen wie es geht.
+2.Teamarbeit
+letzte Woche habe nicht viel im Team gearbeitet, darum muss ich das nachholen und wissen was ich verbessern muss.
+3. 
+
+# Lernatelier Reflexion
+
+
+
+# Meine-Plannung
 ## Tag 7 (18.10.2024)
 1. Programmieren üben: 
 An Modul 319 weiterarbeiten, die freiwilligen projekten anfangen(Beispiel letztesmal den Primzahlrechner)

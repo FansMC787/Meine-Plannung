@@ -1,5 +1,5 @@
 # Meine-Plannung
-## Tag 6 (1.11.2024)
+## Tag 9 (1.11.2024)
 1. Programmieren üben:
    Ich werde die freiwilligen aufgaben weiter arbeiten.
 2. Portfolio:
@@ -10,7 +10,7 @@
 
 
 # Lernatelier Reflexion
-
+Ich habe die Dokumente fertigestellt und Portfolio habei ich auch angefangen, ich habe auch viel geübt, auf nächstes mal soll ich so wie heute weitermachen.
 
 
 # Meine-Plannung

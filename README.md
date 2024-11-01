@@ -1,4 +1,19 @@
 # Meine-Plannung
+## Tag 6 (1.11.2024)
+1. Programmieren üben:
+   Ich werde die freiwilligen aufgaben weiter arbeiten.
+2. Portfolio:
+   Portfolio starten und thema finden.
+3. Dokumente fertigstellen:
+   Ich werde die Dokumente die ich für den M319 brauche fertigstellen.
+
+
+
+# Lernatelier Reflexion
+
+
+
+# Meine-Plannung
 ## Tag 8 (25.10.2024)
 1. Programmieren üben:
 Ich muss die Arrays üben und besser verstehen wie es geht.

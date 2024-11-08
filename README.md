@@ -1,4 +1,20 @@
 # Meine-Plannung
+## Tag 10 (8.11.2024)
+1. Projekt:
+   Das wird den Projekt die wir bekommen haben klar defienieren und die Plannung abschliessen.
+2. Team-Arbeit:
+   Ich weiss wie man zusammen programmieren kann und erfahrungen daraus lernen kann an was ich arbeiten muss vielleicht an der kommunikation oder andere schachen.
+3. Modul 162:
+   Ich weiss was rationale Datenauswertungen sind.
+
+
+
+# Lernatelier Reflexion
+
+
+
+
+# Meine-Plannung
 ## Tag 9 (1.11.2024)
 1. Programmieren üben:
    Ich werde die freiwilligen aufgaben weiter arbeiten.

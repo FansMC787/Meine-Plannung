@@ -10,7 +10,7 @@
 
 
 # Lernatelier Reflexion
-
+Ich habe viel gearbeitet und programmiert. Ich habe auch viel zusammen gearbeitet.
 
 
 

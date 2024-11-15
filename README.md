@@ -8,7 +8,7 @@
  Ich werde beim der Aufgabe LA_6953_logisches_DM1
 
 # Lernatelier Reflexion
-
+Ich habe mit Svanik und Aleks den Switch-case Bedigung programmiert, ist aber nicht so fertigestellt das man es benutzen kann und müssen es verbessern. Ich habe die Teamf
 
 
 

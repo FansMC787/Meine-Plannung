@@ -1,4 +1,19 @@
 # Meine-Plannung
+## Tag 10 (15.11.2024)
+1. Projekt:
+   Ich möchte gemeinsam mit Svanik und Aleks beim Programmierprojekt ein Switch-case zur Überprüfung der Bedingungen für die Unternehmensgrösse (Mitarbeiteranzahl und die Jahresbilanz nach Kundenwunsch) programmieren
+2. Team-Arbeit:
+      Ich möchte meine Teamfähigkeit mit Aleks und Svanik verbessern und den Feedback den sie geben verarbeitern und amwenden.
+3. Modul 162:
+ Ich werde beim der Aufgabe LA_6953_logisches_DM1
+
+# Lernatelier Reflexion
+
+
+
+
+
+# Meine-Plannung
 ## Tag 10 (8.11.2024)
 1. Projekt:
    Das wird den Projekt die wir bekommen haben klar defienieren und die Plannung abschliessen.

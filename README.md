@@ -1,5 +1,5 @@
 # Meine-Plannung
-## Tag 10 (15.11.2024)
+## Tag 10 (29.11.2024)
 1. Die PPP fertigstellen für den Programmier Projekt.
 2. Die Präsentation Strukturieren(wer was sagt) und üben
 3. Ich kann beschreiben was Relationen Datenbanken und Logische Datenbanken sind und selber eine erstellen

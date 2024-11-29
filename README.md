@@ -5,6 +5,10 @@
 3. Ich kann beschreiben was Relationen Datenbanken und Logische Datenbanken sind und selber eine erstellen
 
 
+
+# Lernatelier Reflexion
+Wir haben die Präsentatuion erstellt und fast fertigestellt. Ich habe mit Svanik und Aleks die strukturen besprochen und geprobt. Ich habe auch Logische und Rationale Datenbanken erstellt und weiss auch wie sie funktionieren.
+
 # Meine-Plannung
 ## Tag 10 (15.11.2024)
 1. Projekt:

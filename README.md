@@ -1,4 +1,18 @@
 # Meine-Plannung
+## Tag 11 (06.12.2024)
+1. Projekt:
+   Ich werde 4-Gewinnt machen. Die Ideen findung fertigstellen.
+2. Modul 162:
+   Ich lerne wie man was ich beim Datenschutz achten muss.
+3. Programmiert:
+   Ich werde die beste erweiterung für mein Projekt finden.
+
+
+
+# Lernatelier Reflexion
+
+
+# Meine-Plannung
 ## Tag 10 (29.11.2024)
 1. Die PPP fertigstellen für den Programmier Projekt.
 2. Die Präsentation Strukturieren(wer was sagt) und üben

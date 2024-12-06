@@ -10,7 +10,7 @@
 
 
 # Lernatelier Reflexion
-
+Ich habe die ideenfindung abgeschlossen und weiss was ich beim Datenschutz beachten muss.
 
 # Meine-Plannung
 ## Tag 10 (29.11.2024)

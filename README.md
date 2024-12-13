@@ -1,4 +1,21 @@
 # Meine-Plannung
+## Tag 12 (13.12.2024)
+1. Projekt:
+     Ich werde anfangen zu planen was ich machen muss.
+2. Modul 117:
+      Ich weiss was eine IPv4 ist und weiss wie man sie benutzt.
+4. Projekt:
+   Ich werde die Dokumentation fortführen.
+
+
+
+# Lernatelier Reflexion
+
+
+
+
+
+# Meine-Plannung
 ## Tag 11 (06.12.2024)
 1. Projekt:
    Ich werde 4-Gewinnt machen. Die Ideen findung fertigstellen.

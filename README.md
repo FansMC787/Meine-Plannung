@@ -10,7 +10,7 @@
 
 
 # Lernatelier Reflexion
-
+ich habe die Dokumentation fortgeführt und ein Zeitplan erstell und ich weiss wie IPv4 funktioniert.
 
 
 

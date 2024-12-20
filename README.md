@@ -10,7 +10,8 @@
 
 
 # Lernatelier Reflexion
-
+Ich kann die Reapeter, Switch und Router unterscheiden und habe auch recheriert wie man 4er gewinn noch programmiert und auch dazu videos angeguckt. Ich habe die Zeit zu unterschätzt und habe nicht viel an der Dokumentation weitergeschrieben oder ergäntzt, wegen 
+der verkürtzten Schulzeit.
 
 
 

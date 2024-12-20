@@ -1,10 +1,28 @@
 # Meine-Plannung
+## Tag 13 (20.12.2024)
+1. Projekt:
+     Ich werde anfangen zu rechechieren wie man 4er gewinnt programmier oder funktioniert.
+2. Modul 117:
+      Ich weiss wie man Reapeater, Switch und Router unterscheidet.
+3. Projekt:
+   Ich werde die Dokumentation weiterführen und gegebenfalls auch fotos machen.
+
+
+
+# Lernatelier Reflexion
+
+
+
+
+
+
+# Meine-Plannung
 ## Tag 12 (13.12.2024)
 1. Projekt:
      Ich werde anfangen zu planen was ich machen muss.
 2. Modul 117:
       Ich weiss was eine IPv4 ist und weiss wie man sie benutzt.
-4. Projekt:
+3. Projekt:
    Ich werde die Dokumentation fortführen.
 
 

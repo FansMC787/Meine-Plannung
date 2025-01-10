@@ -8,7 +8,12 @@
    Ich werde wissen wie ISO-OSI funktionieren.
 
 # Lernatelier Reflexion
-   
+   1. Ich habe viel über Raster vom 4er Gewinnt Rechecheriert und musste die "Windows Forms App (.NET Framework)" herunterladen, damit ich zeichen und ein Fenster für die Grafik habe.
+      Ich finde es so schöner und besser.
+   2. Ich habe die Plannung angepasst und auch die Dokumentation als auch den Zeitplan habe ich angepasst.
+   3. Ich habe ncht am Modul 117 gearbeitet, weil ich mich auf das Projekt konzentriert habe.
+      
+      Ich konnte leider nicht den Raster eiinfügen, weil ich noch herausfinden musste wie "Windows Forms App (.NET Framework)" funktioniert.
 
 
 # Meine-Plannung

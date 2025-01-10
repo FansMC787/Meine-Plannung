@@ -1,4 +1,17 @@
 # Meine-Plannung
+## Tag 14 (10.1.2025)
+1. Projekt:
+     Ich werde Recherieren wie man die Punktesystem machen kann.
+2. Projekte:
+     Ich werde Die Plannung fortsetzen und die fortschritte ergänzen.
+   Modul 117:
+   Ich werde wissen wie ISO-OSI funktionieren.
+
+# Lernatelier Reflexion
+   
+
+
+# Meine-Plannung
 ## Tag 13 (20.12.2024)
 1. Projekt:
      Ich werde anfangen zu rechechieren wie man 4er gewinnt programmier oder funktioniert.

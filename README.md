@@ -4,7 +4,7 @@
      Ich werde Recherieren wie man die Punktesystem machen kann.
 2. Projekte:
      Ich werde Die Plannung fortsetzen und die fortschritte ergänzen.
-   Modul 117:
+3. Modul 117:
    Ich werde wissen wie ISO-OSI funktionieren.
 
 # Lernatelier Reflexion

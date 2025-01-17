@@ -1,4 +1,16 @@
 # Meine-Plannung
+## Tag 14 (17.1.2025)
+1. Projekt:
+     Ich werde Recherieren wie man Windows Forms benutzen kann.
+2. Projekte:
+     Ich werde Die Plannung fortsetzen und die fortschritte ergänzen.
+3. Modul 117:
+   Ich verstehe was UVG ist.
+
+# Lernatelier Reflexion
+
+
+# Meine-Plannung
 ## Tag 14 (10.1.2025)
 1. Projekt:
      Ich werde Recherieren wie man die Punktesystem machen kann.

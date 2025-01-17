@@ -8,6 +8,13 @@
    Ich verstehe was UVG ist.
 
 # Lernatelier Reflexion
+1. Projekz:
+     Ich habe viele Videos mir dazu angeguckt und bin damit ein bisschen vertrauter geworden.
+2. Projekt:
+     Ich habe die Plannung leidern ncith weitergeführt oder die Dokumentation, weil nichts neues mehr ansteht und ich nur noch programmieren muss.
+3. Modul 117:
+     Ich habe mir die Unterlagen mir angeguckt und weiss was es ist.
+
 
 
 # Meine-Plannung

@@ -1,5 +1,23 @@
 # Meine-Plannung
 ## Tag 15 (17.1.2025)
+1. 117 (gruppenprojekt)
+     Netzwerkplan fertigstellen
+             Die Liste fertigstekken
+2. 164 (LB-projekt)
+   Meine Datenmodell
+          Meine Primären und Sekundäre keys
+
+3.117 (gruppenprojekt)
+     Berechtigungsmatrix
+          Freigabe auf einem Notebook freigeben.
+
+
+# Lernatelier Reflexion
+
+
+
+# Meine-Plannung
+## Tag 15 (17.1.2025)
 1. Projekt:
      Ich werde Recherieren wie man Windows Forms benutzen kann.
 2. Projekte:

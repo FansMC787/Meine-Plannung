@@ -13,7 +13,9 @@
 
 
 # Lernatelier Reflexion
-
+1.Ich habe den Netzwerkplan fast fertigstelle.
+2.Ich habe meinen Datenmodell fertigestellt.
+3.Habe ich leider nicht gemacht muss ich bis nächste machen.
 
 
 # Meine-Plannung
